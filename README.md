@@ -2,7 +2,7 @@
 
 Momentum is a minimalist, visually-driven personal finance tracker designed to make managing money intuitive and beautiful. The application provides a central dashboard to visualize financial health at a glance. Key components include: a summary section for current balance, total income, and total expenses; an interactive chart displaying spending by category; a list of recent transactions; and a streamlined interface for adding new income or expense entries. The goal is to transform financial tracking from a chore into an empowering and aesthetically pleasing experience, helping users build positive financial momentum.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Heresjohnnyi/momentum_finance_tracker)
 
 ## ✨ Key Features
 
@@ -99,4 +99,4 @@ This project is designed for seamless deployment to the Cloudflare network.
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Heresjohnnyi/momentum_finance_tracker)
